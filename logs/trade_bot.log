@@ -1,0 +1,90 @@
+2023-04-02 13:34:05,259 - ERROR - Error: 'price'
+2023-04-02 13:36:11,765 - ERROR - Error: 'price'
+2023-04-02 13:39:12,833 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 13:40:07,106 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 13:41:03,411 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 13:41:24,713 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 13:42:39,034 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 13:42:56,233 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 13:43:54,605 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 13:44:20,404 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 13:46:05,215 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 13:46:44,967 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 13:47:31,769 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 13:48:04,052 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 13:55:00,996 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 14:04:06,532 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 14:04:39,923 - ERROR - Error: 'list' object has no attribute 'shape'
+2023-04-02 14:12:23,448 - ERROR - Error: Input arrays must have a numeric dtype
+2023-04-02 14:29:33,054 - ERROR - Error: Connection is already closed.
+2023-04-02 15:15:00,779 - ERROR - Error: 'BinanceTradingBot' object has no attribute 'close_prices'
+2023-04-02 18:47:27,655 - ERROR - Error: 'initialMargin'
+2023-04-02 19:11:57,020 - ERROR - Error: 'side'
+2023-04-02 19:12:17,049 - ERROR - Error: 'side'
+2023-04-02 19:15:46,548 - ERROR - Error: 'side'
+2023-04-02 22:21:59,549 - ERROR - Error: local variable 'position' referenced before assignment
+2023-04-03 00:54:18,569 - ERROR - Error: 'BinanceTradingBot' object has no attribute 'gain'
+2023-04-03 00:54:55,643 - ERROR - Error: '>=' not supported between instances of 'float' and 'str'
+2023-04-03 01:05:32,373 - ERROR - Error: could not convert string to float: '2# PERCENTAGE ROI'
+2023-04-04 17:05:23,670 - ERROR - Error: unsupported operand type(s) for /: 'float' and 'str'
+2023-04-04 17:06:52,700 - ERROR - Error: unsupported operand type(s) for /: 'float' and 'str'
+2023-04-04 17:08:42,551 - ERROR - Error: unsupported operand type(s) for /: 'float' and 'str'
+2023-04-04 17:12:41,965 - ERROR - Error: unsupported operand type(s) for /: 'float' and 'str'
+2023-04-04 17:14:39,725 - ERROR - Error: invalid literal for int() with base 10: '28192.47000000'
+2023-04-04 17:20:50,651 - ERROR - Error: unsupported operand type(s) for /: 'float' and 'str'
+2023-04-04 23:07:52,636 - ERROR - Error: list indices must be integers or slices, not str
+2023-04-04 23:37:01,301 - ERROR - Error: object of type 'NoneType' has no len()
+2023-04-05 00:13:12,767 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:13:26,490 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:15:10,972 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:16:08,085 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:16:24,064 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:16:54,986 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:24:48,192 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:27:33,677 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:28:50,684 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:33:02,184 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:33:55,429 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 00:34:33,855 - ERROR - LAST PRICE: Expecting value: line 1 column 1 (char 0)
+2023-04-05 03:30:01,774 - ERROR - MESSAGE: 
+2023-04-05 03:33:55,319 - ERROR - MESSAGE: 
+2023-04-05 15:31:38,934 - ERROR - MESSAGE: float division by zero
+2023-04-05 23:00:49,743 - ERROR - MESSAGE: 'BinanceTradingBot' object has no attribute 'atr_period'
+2023-04-05 23:05:22,309 - ERROR - MESSAGE: 
+2023-04-05 23:07:34,617 - ERROR - MESSAGE: 
+2023-04-05 23:13:31,765 - ERROR - MESSAGE: 'float' object has no attribute 'shape'
+2023-04-05 23:19:19,891 - ERROR - MESSAGE: too many indices for array: array is 1-dimensional, but 2 were indexed
+2023-04-05 23:44:27,990 - ERROR - MESSAGE: local variable 'prices' referenced before assignment
+2023-04-05 23:45:06,945 - ERROR - MESSAGE: 'BinanceTradingBot' object has no attribute 'atr_period'
+2023-04-06 14:24:11,666 - ERROR - MESSAGE: BinanceTradingBot.send_telegram_status() missing 1 required positional argument: 'status_bot'
+2023-04-06 15:33:58,221 - ERROR - MESSAGE: 'BinanceTradingBot' object has no attribute 'send_telegram_status'
+2023-04-06 15:34:47,694 - ERROR - TELEGRAM MESSAGE: object of type 'float' has no len()
+2023-04-12 10:14:51,030 - ERROR - RUN: 'BinanceTradingBot' object has no attribute 'running'
+2023-04-12 10:15:25,129 - ERROR - RUN: 'BinanceTradingBot' object has no attribute 'running'
+2023-04-12 10:17:10,198 - ERROR - RUN: 'BinanceTradingBot' object has no attribute 'running'
+2023-04-12 13:45:03,864 - ERROR - RUN: socket is already opened
+2023-04-12 16:16:48,118 - ERROR - RUN: socket is already opened
+2023-04-12 23:48:42,469 - ERROR - RUN: socket is already opened
+2023-04-12 23:49:13,904 - ERROR - RUN: socket is already opened
+2023-04-12 23:49:14,085 - ERROR - RUN: socket is already opened
+2023-04-14 02:03:29,164 - ERROR - LAST PRICE: 'price'
+2023-04-14 13:48:28,472 - ERROR - LAST PRICE: 'price'
+2023-04-14 13:53:21,687 - ERROR - LAST PRICE: string indices must be integers
+2023-04-14 13:54:16,370 - ERROR - LAST PRICE: string indices must be integers
+2023-04-14 16:16:20,610 - ERROR - LAST PRICE: 400 Client Error: Bad Request for url: https://testnet.binance.vision/api/v3/ticker/price?symbol=BTC/USDT
+2023-04-14 16:19:10,129 - ERROR - LAST PRICE: 'price'
+2023-04-14 16:21:01,099 - ERROR - LAST PRICE: 400 Client Error: Bad Request for url: https://testnet.binance.vision/api/v3/ticker/price?symbol=.!frame.!entry4
+2023-04-14 17:24:01,830 - ERROR - MESSAGE: '>=' not supported between instances of 'float' and 'str'
+2023-04-14 17:24:42,467 - ERROR - MESSAGE: '>=' not supported between instances of 'float' and 'str'
+2023-04-14 17:24:42,467 - ERROR - MESSAGE: '>=' not supported between instances of 'float' and 'str'
+2023-04-16 14:32:46,527 - ERROR - HISTORICAL PRICES: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2023-04-18 00:10:33,056 - ERROR - MESSAGE: '>=' not supported between instances of 'float' and 'str'
+2023-04-18 00:11:18,614 - ERROR - MESSAGE: '>=' not supported between instances of 'float' and 'str'
+2023-04-18 00:11:18,614 - ERROR - MESSAGE: '>=' not supported between instances of 'float' and 'str'
+2023-04-19 12:59:24,159 - ERROR - MESSAGE: 'BinanceFutures' object has no attribute 'buy_market_order'
+2023-04-20 12:20:13,244 - ERROR - MESSAGE: local variable 'position' referenced before assignment
+2023-04-20 12:21:24,597 - ERROR - MESSAGE: local variable 'position' referenced before assignment
+2023-04-20 12:21:24,597 - ERROR - MESSAGE: local variable 'position' referenced before assignment
+2023-04-24 12:07:02,076 - ERROR - MESSAGE: 
+2023-04-24 12:07:47,130 - ERROR - MESSAGE: 
+2023-04-24 12:07:47,130 - ERROR - MESSAGE: 

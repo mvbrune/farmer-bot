@@ -1,0 +1,77 @@
+2023-04-01 22:08:14,236 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-01 22:11:06,954 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-01 22:11:20,679 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 16:23:55,601 - ERROR - Error: string indices must be integers
+2023-04-02 16:24:47,186 - ERROR - Error: string indices must be integers
+2023-04-02 16:39:16,992 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 16:39:43,005 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 16:54:45,108 - ERROR - Error: string indices must be integers
+2023-04-02 16:59:35,426 - ERROR - Error: list.count() takes exactly one argument (0 given)
+2023-04-02 22:09:50,775 - ERROR - Error: string indices must be integers
+2023-04-02 22:26:09,215 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 22:29:51,797 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 22:31:14,741 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 22:31:48,939 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 22:33:04,102 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 22:33:48,749 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 22:41:44,231 - ERROR - Error: 'NoneType' object is not iterable
+2023-04-02 23:13:11,910 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 23:22:16,300 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 23:25:47,891 - ERROR - Failed to get open orders for symbol BTCUSDT. Response: 400
+2023-04-02 23:25:47,892 - ERROR - Error: 'NoneType' object is not iterable
+2023-04-02 23:43:29,917 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 23:43:54,590 - ERROR - Error: Expecting value: line 1 column 1 (char 0)
+2023-04-02 23:55:49,996 - ERROR - Error: '>' not supported between instances of 'str' and 'int'
+2023-04-02 23:56:15,567 - ERROR - Error: '>' not supported between instances of 'str' and 'int'
+2023-04-02 23:59:33,988 - ERROR - Error: '>' not supported between instances of 'str' and 'int'
+2023-04-03 04:10:05,011 - ERROR - Error: string indices must be integers
+2023-04-03 04:15:38,847 - ERROR - Error: 'int' object has no attribute 'timestamp'
+2023-04-03 04:16:02,439 - ERROR - Error: string indices must be integers
+2023-04-03 04:19:06,248 - ERROR - Error: string indices must be integers
+2023-04-03 04:20:24,913 - ERROR - Error: string indices must be integers
+2023-04-03 04:21:56,105 - ERROR - Error: string indices must be integers
+2023-04-03 04:23:36,424 - ERROR - Error: 'isBuyer'
+2023-04-03 04:26:08,509 - ERROR - Error: 'isBuyer'
+2023-04-03 12:09:22,806 - ERROR - Error: string indices must be integers
+2023-04-03 14:39:28,676 - ERROR - Error: 'BinanceFutures' object has no attribute 'symbol'
+2023-04-03 14:39:48,039 - ERROR - Error: 'BinanceFutures' object has no attribute 'symbol'
+2023-04-04 12:47:18,299 - ERROR - Error: string indices must be integers
+2023-04-04 13:06:53,118 - ERROR - Error: string indices must be integers
+2023-04-04 14:02:23,501 - ERROR - Error: string indices must be integers
+2023-04-04 14:02:37,628 - ERROR - Error: string indices must be integers
+2023-04-04 14:02:57,603 - ERROR - Error: string indices must be integers
+2023-04-04 14:03:33,441 - ERROR - Error: string indices must be integers
+2023-04-04 14:33:05,604 - ERROR - Error: can't multiply sequence by non-int of type 'str'
+2023-04-04 14:42:09,354 - ERROR - Error: 'symbol'
+2023-04-04 14:45:18,981 - ERROR - Error: string indices must be integers
+2023-04-04 14:47:40,871 - ERROR - Error: string indices must be integers
+2023-04-04 16:22:18,930 - ERROR - Error: string indices must be integers
+2023-04-04 18:04:58,052 - ERROR - Error: string indices must be integers
+2023-04-04 18:32:53,540 - ERROR - Error: string indices must be integers
+2023-04-04 21:48:02,079 - ERROR - Error: string indices must be integers
+2023-04-04 22:04:48,274 - ERROR - Error: 'totalInitialMargin'
+2023-04-04 22:08:12,416 - ERROR - Error: string indices must be integers
+2023-04-04 22:11:57,253 - ERROR - Error: string indices must be integers
+2023-04-04 23:00:14,831 - ERROR - OPEN POSITIONS: string indices must be integers
+2023-04-04 23:19:19,660 - ERROR - OPEN POSITIONS: string indices must be integers
+2023-04-04 23:24:12,979 - ERROR - POSTIONS MARGIN: 'totalInitialMargin'
+2023-04-04 23:46:55,053 - ERROR - OPEN POSITIONS: string indices must be integers
+2023-04-07 22:53:33,842 - ERROR - BUY MARKET: 'NoneType' object has no attribute 'encode'
+2023-04-08 01:29:18,981 - ERROR - POSTIONS MARGIN: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:29:18,981 - ERROR - POSTIONS MARGIN: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:29:18,981 - ERROR - POSTIONS MARGIN: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:29:18,981 - ERROR - POSTIONS MARGIN: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:29:18,981 - ERROR - POSTIONS MARGIN: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:29:18,981 - ERROR - POSTIONS MARGIN: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 01:34:53,190 - ERROR - BALANCE: Expecting value: line 1 column 1 (char 0)
+2023-04-08 20:11:31,021 - ERROR - TRADE HISTORY: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/userTrades?symbol=BTCUSDT&startTime=1680909090963&endTime=1680995490963&timestamp=1680995491017&signature=09ef3ac097fca2271f921207f8de9662ed56e182eec6be690247d0c65c5f515f (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdf46374e50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-04-13 13:19:55,271 - ERROR - POSTIONS MARGIN: 'totalInitialMargin'
+2023-04-14 17:28:07,445 - ERROR - POSTIONS MARGIN: 'totalInitialMargin'
+2023-04-14 23:43:57,300 - ERROR - POSTIONS MARGIN: 'totalInitialMargin'
+2023-04-19 12:33:28,025 - ERROR - BUY MARKET: 'dict' object has no attribute 'encode'

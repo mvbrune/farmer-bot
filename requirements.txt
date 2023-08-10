@@ -1,0 +1,10 @@
+websocket-client
+numpy
+newtulipy
+python-dotenv
+pandas
+kaleido
+pytest
+tk
+ttkthemes
+Cerberus
